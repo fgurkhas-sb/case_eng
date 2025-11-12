@@ -1,0 +1,278 @@
+nome_associado,sobrenome_associado,idade_associado,vlr_transacao_movimento,des_transacao_movimento,data_movimento,numero_cartao,nome_impresso_cartao,data_criacao_cartao,tipo_conta,data_criacao_conta
+Ursula,Costa,19,1119.98,Restaurante,2025-06-15 08:34:31,10319123,Ursula Costa,2025-11-10 12:00:00,salario,2025-07-02 19:42:49
+Paula,Barbosa,26,1446.96,Pix Recebido,2025-06-07 19:48:08,17693194,Paula Barbosa,2025-11-10 12:00:00,poupanca,2025-08-05 13:38:05
+Xavier,Freitas,23,1271.52,Streaming,2025-05-17 10:42:48,15109542,Xavier Freitas,2025-11-10 12:00:00,poupanca,2025-01-07 17:36:09
+Natalia,Barbosa,50,14.89,Supermercado,2024-11-19 15:18:24,16952939,Natalia Barbosa,2025-11-10 12:00:00,corrente,2024-02-21 12:26:40
+Fábio,Barbosa,46,897.38,Cinema,2024-12-07 17:16:36,13741908,Fábio Barbosa,2025-11-10 12:00:00,salario,2024-09-13 08:16:45
+Sofia,Silva,66,126.43,Streaming,2025-10-10 03:42:24,15698723,Sofia Silva,2025-11-10 12:00:00,corrente,2025-05-07 07:51:53
+Yuri,Ribeiro,39,860.99,Saque,2024-11-20 12:05:20,11125260,Yuri Ribeiro,2025-11-10 12:00:00,corrente,2025-04-23 03:45:15
+Beatriz,Vieira,56,955.33,Streaming,2024-11-19 09:01:58,21297600,Beatriz Vieira,2025-11-10 12:00:00,corrente,2025-06-22 02:59:15
+Diego,Ferreira,53,154.80,Passagem,2025-01-01 01:02:11,11364898,Diego Ferreira,2025-11-10 12:00:00,poupanca,2025-09-09 04:46:52
+Ursula,Pinto,74,682.88,Hotel,2025-08-25 22:08:00,20227304,Ursula Pinto,2025-11-10 12:00:00,salario,2025-03-31 19:32:52
+Queila,Carvalho,63,1244.02,Saque,2025-08-31 15:34:14,19626636,Queila Carvalho,2025-11-10 12:00:00,salario,2025-04-30 12:20:56
+Felipe,Barbosa,73,155.84,Pix Recebido,2025-09-12 21:48:13,21021701,Felipe Barbosa,2025-11-10 12:00:00,corrente,2024-11-04 04:53:23
+Karla,Correia,40,1418.06,Supermercado,2025-06-10 01:02:14,12341917,Karla Correia,2025-11-10 12:00:00,poupanca,2025-09-05 15:21:41
+Wagner,Melo,62,562.71,Cinema,2025-11-02 04:15:16,19706742,Wagner Melo,2025-11-10 12:00:00,poupanca,2024-12-17 16:04:13
+Paula,Araújo,47,657.88,Pix Recebido,2025-06-22 17:28:17,14757744,Paula Araújo,2025-11-10 12:00:00,poupanca,2024-04-17 05:11:04
+Sofia,Sales,62,970.81,Eletrônicos,2024-11-20 09:13:59,23209318,Sofia Sales,2025-11-10 12:00:00,corrente,2023-04-03 03:02:35
+Otávio,Batista,71,839.16,Streaming,2025-10-13 17:58:30,10931257,Otávio Batista,2025-11-10 12:00:00,poupanca,2023-03-31 15:32:29
+Elisa,Melo,22,1217.40,Combustível,2025-07-27 19:33:22,21198079,Elisa Melo,2025-11-10 12:00:00,corrente,2025-04-16 06:05:54
+Felipe,Santos,73,897.88,Pix Recebido,2025-02-11 18:46:38,18624664,Felipe Santos,2025-11-10 12:00:00,salario,2024-03-19 00:37:44
+João,Sales,28,585.69,Roupas,2025-10-07 22:54:36,19154156,João Sales,2025-11-10 12:00:00,salario,2025-04-29 23:45:59
+Sabrina,Rodrigues,42,796.54,Streaming,2025-03-18 00:09:42,24733831,Sabrina Rodrigues,2025-11-10 12:00:00,corrente,2025-10-17 06:23:01
+Pedro,Silva,61,358.22,Pix Recebido,2025-02-20 02:20:53,20528443,Pedro Silva,2025-11-10 12:00:00,poupanca,2023-08-10 21:54:07
+Xavier,Freitas,66,250.98,Hotel,2025-01-09 03:30:35,19525428,Xavier Freitas,2025-11-10 12:00:00,poupanca,2025-04-03 00:11:06
+Valentina,Moreira,25,260.94,Roupas,2025-08-25 21:31:52,11578201,Valentina Moreira,2025-11-10 12:00:00,corrente,2024-10-27 13:56:07
+Matheus,Almeida,73,1083.17,Pix Recebido,2025-05-16 04:40:46,23063087,Matheus Almeida,2025-11-10 12:00:00,corrente,2025-09-24 07:05:37
+João,Correia,66,63.52,Hotel,2025-08-06 15:03:50,11410515,João Correia,2025-11-10 12:00:00,salario,2024-11-28 18:06:24
+Olivia,Barros,18,164.99,Pix Recebido,2025-01-26 04:48:17,12709943,Olivia Barros,2025-11-10 12:00:00,salario,2023-11-04 15:03:27
+Caio,Cardoso,33,1472.62,Cinema,2024-11-14 05:31:34,23407116,Caio Cardoso,2025-11-10 12:00:00,poupanca,2024-12-24 07:08:59
+Larissa,Rodrigues,66,931.57,Eletrônicos,2025-03-27 10:28:55,22570610,Larissa Rodrigues,2025-11-10 12:00:00,salario,2023-02-18 03:35:48
+Isabela,Gomes,60,498.15,Cinema,2025-07-24 16:04:46,21775864,Isabela Gomes,2025-11-10 12:00:00,salario,2023-10-05 05:40:00
+Pedro,Araújo,34,1329.26,Padaria,2025-08-01 10:31:49,16983304,Pedro Araújo,2025-11-10 12:00:00,salario,2023-01-12 01:44:58
+Eduarda,Moreira,19,623.27,Pix Recebido,2025-09-27 11:35:07,19743464,Eduarda Moreira,2025-11-10 12:00:00,corrente,2024-03-11 06:19:29
+Pedro,Barbosa,55,186.44,Pix Enviado,2025-03-12 14:01:05,20856626,Pedro Barbosa,2025-11-10 12:00:00,salario,2025-02-12 22:37:22
+Otávio,Rodrigues,75,1224.60,Roupas,2025-09-02 17:48:03,19238460,Otávio Rodrigues,2025-11-10 12:00:00,salario,2023-09-08 11:30:36
+Zeca,Rodrigues,50,455.22,Pix Recebido,2025-06-13 19:17:41,12129841,Zeca Rodrigues,2025-11-10 12:00:00,corrente,2025-08-18 04:12:59
+Sofia,Ramos,31,367.47,Cinema,2025-10-03 04:30:31,12457023,Sofia Ramos,2025-11-10 12:00:00,salario,2023-05-31 05:42:09
+Isabela,Campos,54,1112.11,Cinema,2025-08-14 03:56:30,24059853,Isabela Campos,2025-11-10 12:00:00,corrente,2022-12-22 22:12:09
+Mariana,Almeida,24,83.01,Eletrônicos,2025-08-20 23:45:59,21839833,Mariana Almeida,2025-11-10 12:00:00,salario,2025-10-07 06:32:21
+Zeca,Almeida,33,1163.57,Saque,2025-09-20 06:25:44,19697067,Zeca Almeida,2025-11-10 12:00:00,poupanca,2025-05-19 15:41:29
+Mariana,Freitas,46,568.87,Restaurante,2024-12-18 02:52:55,14906862,Mariana Freitas,2025-11-10 12:00:00,poupanca,2025-01-10 22:57:36
+Giovana,Pereira,35,676.73,Transporte,2024-12-27 04:06:55,18886578,Giovana Pereira,2025-11-10 12:00:00,salario,2022-10-19 11:45:39
+Paula,Rodrigues,46,961.01,Restaurante,2024-12-19 19:14:33,17278500,Paula Rodrigues,2025-11-10 12:00:00,salario,2024-05-20 18:00:42
+Ana,Ferreira,66,744.87,Passagem,2025-04-06 15:34:18,18562665,Ana Ferreira,2025-11-10 12:00:00,corrente,2025-10-20 17:24:28
+Karla,Teixeira,49,616.26,Transporte,2025-05-21 09:57:25,18933309,Karla Teixeira,2025-11-10 12:00:00,corrente,2024-02-01 17:00:42
+Natalia,Moura,75,67.89,Combustível,2025-05-07 12:08:16,12041952,Natalia Moura,2025-11-10 12:00:00,corrente,2023-07-23 13:09:42
+Rafael,Duarte,36,1027.64,Restaurante,2024-12-28 10:47:13,19164687,Rafael Duarte,2025-11-10 12:00:00,corrente,2025-11-09 11:54:05
+Daniela,Cavalcante,65,274.49,Passagem,2025-02-17 04:16:46,15473716,Daniela Cavalcante,2025-11-10 12:00:00,poupanca,2024-05-16 23:50:23
+Daniela,Batista,21,1435.24,Roupas,2025-08-17 08:55:50,18038053,Daniela Batista,2025-11-10 12:00:00,corrente,2024-06-04 11:01:08
+Karla,Santos,50,1402.43,Padaria,2024-12-21 05:09:20,24749369,Karla Santos,2025-11-10 12:00:00,salario,2024-10-27 16:03:35
+Xavier,Rocha,43,1012.34,Padaria,2025-10-29 18:56:31,11441676,Xavier Rocha,2025-11-10 12:00:00,poupanca,2023-12-28 07:48:05
+Queila,Rocha,55,458.27,Saque,2025-02-16 00:18:09,11959037,Queila Rocha,2025-11-10 12:00:00,corrente,2024-11-03 14:46:02
+Paula,Dias,43,842.93,Streaming,2025-04-07 00:28:07,12073705,Paula Dias,2025-11-10 12:00:00,poupanca,2025-01-19 21:54:37
+Wagner,Cardoso,47,763.47,Hotel,2024-11-29 22:06:09,18002530,Wagner Cardoso,2025-11-10 12:00:00,corrente,2024-01-27 16:01:40
+Queila,Almeida,22,832.07,Pix Recebido,2025-07-27 12:25:41,21947970,Queila Almeida,2025-11-10 12:00:00,salario,2025-04-17 00:27:08
+Natalia,Figueiredo,34,72.64,Pix Recebido,2025-08-25 03:07:06,11288081,Natalia Figueiredo,2025-11-10 12:00:00,corrente,2023-12-02 01:47:51
+Beatriz,Rodrigues,74,472.82,Pix Recebido,2025-03-04 01:20:39,22594241,Beatriz Rodrigues,2025-11-10 12:00:00,poupanca,2025-08-30 20:31:45
+Olivia,Cardoso,57,967.02,Pix Enviado,2025-10-20 15:11:48,22062058,Olivia Cardoso,2025-11-10 12:00:00,corrente,2023-03-19 12:49:55
+Isabela,Dias,25,357.10,Roupas,2025-04-14 17:14:17,24388425,Isabela Dias,2025-11-10 12:00:00,salario,2024-03-18 14:33:31
+Sabrina,Lima,63,562.93,Eletrônicos,2025-01-23 03:16:43,18822048,Sabrina Lima,2025-11-10 12:00:00,poupanca,2025-03-23 04:54:19
+Matheus,Ramos,34,788.32,Padaria,2025-05-03 04:05:54,24288078,Matheus Ramos,2025-11-10 12:00:00,poupanca,2023-08-24 17:51:14
+Felipe,Sales,45,1241.35,Combustível,2025-06-03 23:30:15,19082499,Felipe Sales,2025-11-10 12:00:00,salario,2023-05-04 22:34:23
+Renato,Tavares,27,7.34,Transporte,2025-02-13 23:08:54,12224805,Renato Tavares,2025-11-10 12:00:00,poupanca,2024-06-09 16:07:33
+Fábio,Pinto,65,917.84,Hotel,2025-03-10 15:28:26,13322805,Fábio Pinto,2025-11-10 12:00:00,poupanca,2022-10-27 07:36:57
+Paula,Araújo,69,1305.08,Boleto,2024-12-22 15:40:00,24103304,Paula Araújo,2025-11-10 12:00:00,salario,2025-03-24 09:54:41
+Fábio,Souza,29,1271.46,Pix Recebido,2025-02-15 21:54:28,20354938,Fábio Souza,2025-11-10 12:00:00,poupanca,2023-06-06 14:03:56
+Fábio,Rocha,35,562.94,Passagem,2025-10-14 13:47:37,14815621,Fábio Rocha,2025-11-10 12:00:00,corrente,2023-04-14 14:19:09
+Yuri,Almeida,42,256.51,Pix Recebido,2025-01-21 15:55:49,12323972,Yuri Almeida,2025-11-10 12:00:00,salario,2024-06-07 23:41:07
+Júlia,Barbosa,30,1372.54,Transporte,2025-08-23 15:19:40,17518640,Júlia Barbosa,2025-11-10 12:00:00,poupanca,2023-02-19 15:10:50
+Beatriz,Cardoso,70,802.81,Streaming,2025-05-14 14:42:08,21945710,Beatriz Cardoso,2025-11-10 12:00:00,poupanca,2022-08-30 01:16:47
+Elisa,Moreira,35,718.79,Pix Recebido,2025-04-07 07:43:29,12467143,Elisa Moreira,2025-11-10 12:00:00,poupanca,2024-01-23 08:21:28
+Sofia,Vieira,59,259.92,Boleto,2025-01-25 04:50:58,15982206,Sofia Vieira,2025-11-10 12:00:00,salario,2024-10-21 19:41:28
+Elisa,Freitas,39,699.34,Pix Enviado,2025-04-20 07:39:26,22328703,Elisa Freitas,2025-11-10 12:00:00,corrente,2024-06-01 15:27:35
+Rafael,Oliveira,24,280.15,Restaurante,2025-08-05 21:15:46,19215118,Rafael Oliveira,2025-11-10 12:00:00,salario,2025-04-24 15:43:45
+Giovana,Vieira,64,698.61,Hotel,2025-10-25 16:35:02,22046646,Giovana Vieira,2025-11-10 12:00:00,corrente,2022-12-17 04:34:44
+Giovana,Nascimento,50,701.68,Passagem,2025-04-23 03:25:37,23351417,Giovana Nascimento,2025-11-10 12:00:00,salario,2024-03-09 04:18:50
+Diego,Campos,30,564.07,Combustível,2025-05-21 04:12:23,23176385,Diego Campos,2025-11-10 12:00:00,salario,2023-01-31 11:49:54
+Carlos,Ribeiro,18,1180.69,Supermercado,2025-05-29 13:08:54,24495014,Carlos Ribeiro,2025-11-10 12:00:00,corrente,2023-02-20 12:11:06
+Eduarda,Moreira,57,213.97,Roupas,2025-02-02 10:20:18,21955895,Eduarda Moreira,2025-11-10 12:00:00,corrente,2024-05-23 22:04:28
+Wagner,Costa,64,314.98,Passagem,2025-08-07 09:45:04,10563796,Wagner Costa,2025-11-10 12:00:00,poupanca,2024-08-02 09:40:44
+Yasmin,Moura,62,619.14,Combustível,2025-01-14 07:34:26,24126818,Yasmin Moura,2025-11-10 12:00:00,salario,2024-11-19 16:38:10
+Pedro,Gomes,30,195.38,Supermercado,2024-11-22 06:53:40,24892180,Pedro Gomes,2025-11-10 12:00:00,salario,2023-08-02 02:13:13
+Wagner,Monteiro,61,737.32,Passagem,2024-11-19 09:26:34,15743396,Wagner Monteiro,2025-11-10 12:00:00,corrente,2023-01-07 18:13:20
+Tomás,Campos,37,29.57,Cinema,2025-01-23 06:38:10,10621764,Tomás Campos,2025-11-10 12:00:00,poupanca,2023-12-05 14:09:03
+Natalia,Ribeiro,68,438.06,Passagem,2025-03-16 10:49:00,15868436,Natalia Ribeiro,2025-11-10 12:00:00,poupanca,2024-01-01 12:45:49
+Sabrina,Batista,47,1410.64,Transporte,2025-01-06 06:31:15,16635395,Sabrina Batista,2025-11-10 12:00:00,poupanca,2022-08-18 12:58:14
+Karla,Ferreira,36,745.95,Boleto,2025-08-06 07:38:10,17538170,Karla Ferreira,2025-11-10 12:00:00,corrente,2025-01-19 08:36:46
+Wagner,Sales,57,696.26,Supermercado,2025-06-01 05:17:45,10131120,Wagner Sales,2025-11-10 12:00:00,salario,2024-04-02 19:17:39
+Otávio,Carvalho,27,1013.23,Pix Recebido,2025-09-19 19:17:12,13076302,Otávio Carvalho,2025-11-10 12:00:00,poupanca,2023-09-10 10:02:15
+Carlos,Rocha,48,1016.55,Boleto,2025-05-06 01:21:51,22161652,Carlos Rocha,2025-11-10 12:00:00,poupanca,2023-03-05 04:40:04
+Eduarda,Duarte,44,646.78,Transporte,2025-04-08 00:13:29,24116368,Eduarda Duarte,2025-11-10 12:00:00,poupanca,2025-10-13 09:06:02
+Pedro,Rocha,72,763.07,Restaurante,2025-06-29 16:50:41,10658356,Pedro Rocha,2025-11-10 12:00:00,corrente,2024-07-20 04:00:18
+Ícaro,Gomes,69,86.90,Saque,2025-01-20 05:20:04,11970481,Ícaro Gomes,2025-11-10 12:00:00,salario,2023-08-23 18:38:14
+Wagner,Barros,53,766.14,Restaurante,2024-11-30 01:01:14,21392028,Wagner Barros,2025-11-10 12:00:00,poupanca,2023-05-06 18:54:18
+Yasmin,Castro,57,1018.74,Pix Enviado,2024-12-15 04:37:25,14619943,Yasmin Castro,2025-11-10 12:00:00,corrente,2022-10-18 07:16:45
+Giovana,Tavares,46,1326.95,Pix Recebido,2025-06-02 13:27:32,18078713,Giovana Tavares,2025-11-10 12:00:00,poupanca,2022-10-06 17:07:58
+Júlia,Castro,34,1150.25,Supermercado,2025-03-14 03:32:04,19015834,Júlia Castro,2025-11-10 12:00:00,poupanca,2023-04-24 23:18:46
+Larissa,Sales,33,688.38,Pix Recebido,2025-07-24 17:45:28,17320685,Larissa Sales,2025-11-10 12:00:00,corrente,2023-09-14 00:50:35
+Paula,Melo,39,350.99,Supermercado,2025-03-02 14:26:40,17946829,Paula Melo,2025-11-10 12:00:00,salario,2024-02-08 02:01:20
+Otávio,Monteiro,62,883.74,Pix Enviado,2025-06-20 14:20:24,16966069,Otávio Monteiro,2025-11-10 12:00:00,salario,2024-06-22 00:13:28
+Zuleica,Lima,22,115.88,Eletrônicos,2025-01-15 16:06:13,22188978,Zuleica Lima,2025-11-10 12:00:00,poupanca,2022-12-31 01:09:22
+Fábio,Moreira,52,389.61,Pix Recebido,2025-05-02 06:46:22,22803808,Fábio Moreira,2025-11-10 12:00:00,corrente,2024-10-20 16:19:21
+Fábio,Santos,31,286.42,Pix Enviado,2024-12-12 12:26:03,11824438,Fábio Santos,2025-11-10 12:00:00,poupanca,2023-01-30 10:23:50
+Diego,Cavalcante,62,1415.48,Passagem,2025-10-05 13:53:36,11129765,Diego Cavalcante,2025-11-10 12:00:00,corrente,2024-01-22 15:34:02
+Fábio,Freitas,65,524.40,Pix Recebido,2025-08-15 06:36:11,23267973,Fábio Freitas,2025-11-10 12:00:00,poupanca,2024-08-27 23:58:34
+Diego,Moreira,60,1159.12,Streaming,2025-09-19 13:39:35,11751949,Diego Moreira,2025-11-10 12:00:00,salario,2023-10-26 19:36:42
+Isabela,Duarte,29,1375.14,Farmácia,2025-01-18 22:43:39,19105647,Isabela Duarte,2025-11-10 12:00:00,poupanca,2025-05-03 00:15:33
+Rafael,Monteiro,38,627.41,Pix Recebido,2025-05-22 02:43:34,20429505,Rafael Monteiro,2025-11-10 12:00:00,corrente,2023-11-22 15:36:10
+Ícaro,Batista,39,100.32,Combustível,2025-07-09 21:11:12,23036857,Ícaro Batista,2025-11-10 12:00:00,corrente,2024-10-02 12:32:52
+Sofia,Teixeira,34,310.75,Roupas,2025-04-04 09:53:27,19492826,Sofia Teixeira,2025-11-10 12:00:00,poupanca,2025-08-09 11:17:28
+Daniela,Vieira,32,502.90,Hotel,2025-01-26 18:06:16,15866213,Daniela Vieira,2025-11-10 12:00:00,salario,2023-02-17 13:50:52
+Valentina,Oliveira,66,876.81,Pix Recebido,2025-07-30 12:15:03,14629308,Valentina Oliveira,2025-11-10 12:00:00,salario,2024-11-11 06:12:59
+Paula,Carvalho,71,415.74,Supermercado,2025-07-26 11:42:29,21002553,Paula Carvalho,2025-11-10 12:00:00,corrente,2024-08-26 03:56:30
+Tomás,Martins,33,861.45,Eletrônicos,2025-10-31 04:38:05,12444212,Tomás Martins,2025-11-10 12:00:00,poupanca,2025-01-25 04:37:40
+Ícaro,Dias,67,1482.09,Boleto,2025-01-16 09:31:20,19232325,Ícaro Dias,2025-11-10 12:00:00,salario,2024-08-01 22:14:09
+Karla,Cardoso,24,1326.10,Pix Recebido,2025-05-02 18:31:59,16082671,Karla Cardoso,2025-11-10 12:00:00,corrente,2025-02-14 23:22:08
+Elisa,Carvalho,22,1499.36,Cinema,2025-11-02 18:02:13,24570381,Elisa Carvalho,2025-11-10 12:00:00,salario,2022-09-10 21:52:22
+Yuri,Cardoso,72,809.20,Cinema,2025-04-13 01:17:13,20450358,Yuri Cardoso,2025-11-10 12:00:00,salario,2023-09-22 22:31:45
+Henrique,Campos,68,883.44,Saque,2025-07-14 03:38:12,21315823,Henrique Campos,2025-11-10 12:00:00,salario,2023-09-27 17:22:51
+Beatriz,Freitas,45,374.96,Combustível,2025-08-07 12:17:49,24326562,Beatriz Freitas,2025-11-10 12:00:00,corrente,2023-11-19 07:59:37
+Eduarda,Figueiredo,59,860.35,Supermercado,2025-07-23 18:51:56,16623256,Eduarda Figueiredo,2025-11-10 12:00:00,corrente,2022-08-04 06:07:35
+Ana,Teixeira,70,1010.44,Padaria,2025-01-23 15:00:34,10975330,Ana Teixeira,2025-11-10 12:00:00,corrente,2023-04-22 15:42:00
+Gabriela,Ribeiro,41,919.16,Restaurante,2025-11-07 01:03:31,14735597,Gabriela Ribeiro,2025-11-10 12:00:00,poupanca,2023-07-22 00:02:01
+Zuleica,Martins,45,969.52,Restaurante,2025-09-16 01:37:04,18488216,Zuleica Martins,2025-11-10 12:00:00,salario,2022-09-20 00:49:48
+Paula,Barbosa,26,1359.26,Pix Recebido,2025-03-01 01:28:30,17693194,Paula Barbosa,2025-11-10 12:00:00,poupanca,2025-08-05 13:38:05
+Giovana,Oliveira,19,,,,22645520,Giovana Oliveira,2025-11-10 12:00:00,poupanca,2024-05-20 04:58:10
+Natalia,Barbosa,50,394.86,Transporte,2025-04-11 01:34:49,16952939,Natalia Barbosa,2025-11-10 12:00:00,corrente,2024-02-21 12:26:40
+Bruno,Tavares,30,,,,10338896,Bruno Tavares,2025-11-10 12:00:00,corrente,2025-03-07 16:46:44
+Fábio,Barbosa,46,544.54,Hotel,2025-08-20 00:45:22,13741908,Fábio Barbosa,2025-11-10 12:00:00,salario,2024-09-13 08:16:45
+Sofia,Silva,66,481.43,Pix Recebido,2025-11-11 19:41:44,15698723,Sofia Silva,2025-11-10 12:00:00,corrente,2025-05-07 07:51:53
+João,Lima,66,,,,12722118,João Lima,2025-11-10 12:00:00,poupanca,2024-01-10 08:25:21
+Gabriela,Ferreira,42,,,,19040059,Gabriela Ferreira,2025-11-10 12:00:00,poupanca,2024-02-15 16:16:01
+Carlos,Duarte,52,,,,12440600,Carlos Duarte,2025-11-10 12:00:00,corrente,2023-12-06 10:49:44
+Ursula,Pinto,74,1247.93,Padaria,2025-02-03 01:55:42,20227304,Ursula Pinto,2025-11-10 12:00:00,salario,2025-03-31 19:32:52
+Queila,Carvalho,63,1003.34,Pix Recebido,2025-06-06 14:19:39,19626636,Queila Carvalho,2025-11-10 12:00:00,salario,2025-04-30 12:20:56
+Carlos,Barbosa,67,,,,17774727,Carlos Barbosa,2025-11-10 12:00:00,corrente,2023-02-05 06:44:39
+Felipe,Barbosa,73,520.48,Farmácia,2025-09-04 08:08:16,21021701,Felipe Barbosa,2025-11-10 12:00:00,corrente,2024-11-04 04:53:23
+Diego,Melo,47,,,,22748880,Diego Melo,2025-11-10 12:00:00,poupanca,2025-11-02 09:28:01
+Wagner,Melo,62,648.76,Pix Recebido,2025-08-17 06:43:37,19706742,Wagner Melo,2025-11-10 12:00:00,poupanca,2024-12-17 16:04:13
+Sabrina,Sales,28,,,,20819853,Sabrina Sales,2025-11-10 12:00:00,poupanca,2024-07-19 12:33:06
+Otávio,Oliveira,69,,,,24149835,Otávio Oliveira,2025-11-10 12:00:00,salario,2023-08-13 03:00:18
+Queila,Batista,31,,,,16477462,Queila Batista,2025-11-10 12:00:00,salario,2025-07-08 17:45:35
+Elisa,Duarte,27,,,,19836388,Elisa Duarte,2025-11-10 12:00:00,poupanca,2023-02-20 03:05:56
+Isabela,Rocha,65,,,,23815635,Isabela Rocha,2025-11-10 12:00:00,poupanca,2023-11-07 09:10:14
+Olivia,Dias,65,,,,10668954,Olivia Dias,2025-11-10 12:00:00,corrente,2024-04-08 20:32:47
+Giovana,Cavalcante,43,,,,11306215,Giovana Cavalcante,2025-11-10 12:00:00,salario,2025-07-27 00:38:24
+Otávio,Gomes,50,,,,20286058,Otávio Gomes,2025-11-10 12:00:00,poupanca,2022-10-30 22:00:59
+Felipe,Santos,73,573.41,Eletrônicos,2024-12-17 10:29:17,18624664,Felipe Santos,2025-11-10 12:00:00,salario,2024-03-19 00:37:44
+João,Sales,28,982.03,Pix Recebido,2025-08-13 10:20:31,19154156,João Sales,2025-11-10 12:00:00,salario,2025-04-29 23:45:59
+Sabrina,Rodrigues,42,236.64,Farmácia,2025-07-28 15:41:01,24733831,Sabrina Rodrigues,2025-11-10 12:00:00,corrente,2025-10-17 06:23:01
+Sabrina,Duarte,51,,,,12318462,Sabrina Duarte,2025-11-10 12:00:00,poupanca,2025-04-05 12:04:06
+Xavier,Freitas,66,503.38,Pix Enviado,2025-05-09 07:19:35,19525428,Xavier Freitas,2025-11-10 12:00:00,poupanca,2025-04-03 00:11:06
+Giovana,Araújo,47,,,,11734962,Giovana Araújo,2025-11-10 12:00:00,corrente,2025-10-23 18:56:55
+Rafael,Figueiredo,66,,,,16917298,Rafael Figueiredo,2025-11-10 12:00:00,salario,2022-11-16 01:33:20
+Ursula,Figueiredo,56,,,,13185444,Ursula Figueiredo,2025-11-10 12:00:00,corrente,2023-12-20 00:20:38
+Olivia,Barros,18,1401.21,Pix Recebido,2025-06-02 14:04:03,12709943,Olivia Barros,2025-11-10 12:00:00,salario,2023-11-04 15:03:27
+Yasmin,Ramos,19,,,,15905923,Yasmin Ramos,2025-11-10 12:00:00,poupanca,2025-02-06 12:09:01
+Caio,Cardoso,33,1405.23,Padaria,2024-11-29 20:22:07,23407116,Caio Cardoso,2025-11-10 12:00:00,poupanca,2024-12-24 07:08:59
+Paula,Campos,23,,,,23595219,Paula Campos,2025-11-10 12:00:00,salario,2022-11-30 18:13:38
+Larissa,Rodrigues,66,1436.22,Padaria,2025-03-06 06:52:01,22570610,Larissa Rodrigues,2025-11-10 12:00:00,salario,2023-02-18 03:35:48
+Isabela,Gomes,60,954.41,Pix Enviado,2025-09-27 07:03:24,21775864,Isabela Gomes,2025-11-10 12:00:00,salario,2023-10-05 05:40:00
+Sabrina,Ribeiro,31,,,,18179859,Sabrina Ribeiro,2025-11-10 12:00:00,corrente,2023-07-20 16:07:43
+Yuri,Carvalho,63,,,,22828892,Yuri Carvalho,2025-11-10 12:00:00,corrente,2023-06-14 20:07:43
+Elisa,Correia,46,,,,21393621,Elisa Correia,2025-11-10 12:00:00,poupanca,2025-02-06 17:39:05
+Heitor,Costa,33,,,,16332880,Heitor Costa,2025-11-10 12:00:00,poupanca,2024-03-16 21:13:11
+Eduarda,Moreira,19,332.60,Pix Recebido,2025-01-28 12:35:47,19743464,Eduarda Moreira,2025-11-10 12:00:00,corrente,2024-03-11 06:19:29
+Ana,Rodrigues,63,,,,23001441,Ana Rodrigues,2025-11-10 12:00:00,salario,2023-11-20 05:39:48
+Otávio,Rodrigues,75,805.05,Restaurante,2025-02-08 11:14:46,19238460,Otávio Rodrigues,2025-11-10 12:00:00,salario,2023-09-08 11:30:36
+Sofia,Ramos,31,467.65,Passagem,2025-02-18 09:25:26,12457023,Sofia Ramos,2025-11-10 12:00:00,salario,2023-05-31 05:42:09
+Paula,Rezende,69,,,,23978328,Paula Rezende,2025-11-10 12:00:00,corrente,2024-04-19 17:41:46
+Beatriz,Ribeiro,44,,,,14617585,Beatriz Ribeiro,2025-11-10 12:00:00,poupanca,2023-04-10 13:05:46
+Daniela,Almeida,21,,,,19235681,Daniela Almeida,2025-11-10 12:00:00,salario,2024-04-12 10:41:10
+Gabriela,Santos,59,,,,19738814,Gabriela Santos,2025-11-10 12:00:00,poupanca,2022-09-19 23:21:23
+Karla,Teixeira,49,970.62,Combustível,2025-10-10 16:56:05,18933309,Karla Teixeira,2025-11-10 12:00:00,corrente,2024-02-01 17:00:42
+Natalia,Moura,75,495.54,Pix Recebido,2025-06-19 02:25:41,12041952,Natalia Moura,2025-11-10 12:00:00,corrente,2023-07-23 13:09:42
+Karla,Monteiro,18,,,,16711924,Karla Monteiro,2025-11-10 12:00:00,salario,2025-01-20 06:09:31
+Rafael,Duarte,36,854.10,Pix Recebido,2025-05-01 06:23:31,19164687,Rafael Duarte,2025-11-10 12:00:00,corrente,2025-11-09 11:54:05
+Yuri,Tavares,60,,,,16711392,Yuri Tavares,2025-11-10 12:00:00,salario,2025-05-01 23:21:12
+João,Carvalho,36,,,,24283082,João Carvalho,2025-11-10 12:00:00,poupanca,2024-07-11 10:53:56
+Daniela,Batista,21,631.08,Saque,2025-06-09 14:18:07,18038053,Daniela Batista,2025-11-10 12:00:00,corrente,2024-06-04 11:01:08
+Renato,Rezende,50,,,,13277895,Renato Rezende,2025-11-10 12:00:00,salario,2025-05-09 06:31:30
+Karla,Santos,50,158.38,Padaria,2025-04-16 12:16:00,24749369,Karla Santos,2025-11-10 12:00:00,salario,2024-10-27 16:03:35
+Leonardo,Rodrigues,56,,,,20184825,Leonardo Rodrigues,2025-11-10 12:00:00,corrente,2025-02-14 23:14:15
+Queila,Rocha,55,1188.11,Pix Recebido,2025-04-06 13:13:58,11959037,Queila Rocha,2025-11-10 12:00:00,corrente,2024-11-03 14:46:02
+Carlos,Pinto,23,,,,11833185,Carlos Pinto,2025-11-10 12:00:00,corrente,2025-08-14 12:51:05
+Wagner,Cavalcante,54,,,,12002101,Wagner Cavalcante,2025-11-10 12:00:00,poupanca,2022-11-18 02:51:39
+Yasmin,Dias,31,,,,19274477,Yasmin Dias,2025-11-10 12:00:00,salario,2024-08-08 18:42:02
+Eduarda,Silva,47,,,,12794208,Eduarda Silva,2025-11-10 12:00:00,corrente,2024-03-10 11:58:57
+Beatriz,Rodrigues,74,658.24,Hotel,2025-05-27 08:22:31,22594241,Beatriz Rodrigues,2025-11-10 12:00:00,poupanca,2025-08-30 20:31:45
+Caio,Nogueira,28,,,,22059976,Caio Nogueira,2025-11-10 12:00:00,salario,2024-11-10 23:25:30
+Ana,Tavares,37,,,,17079093,Ana Tavares,2025-11-10 12:00:00,corrente,2023-06-10 14:10:36
+Pedro,Martins,35,,,,12624896,Pedro Martins,2025-11-10 12:00:00,salario,2024-02-09 11:09:32
+Natalia,Sales,72,,,,17593460,Natalia Sales,2025-11-10 12:00:00,poupanca,2025-08-31 01:17:51
+Felipe,Sales,45,548.15,Pix Recebido,2024-11-26 01:13:47,19082499,Felipe Sales,2025-11-10 12:00:00,salario,2023-05-04 22:34:23
+Carlos,Silva,39,,,,11104796,Carlos Silva,2025-11-10 12:00:00,poupanca,2024-11-25 08:24:21
+Ursula,Dias,28,,,,16176794,Ursula Dias,2025-11-10 12:00:00,salario,2024-01-27 20:07:29
+Pedro,Ribeiro,53,,,,22893708,Pedro Ribeiro,2025-11-10 12:00:00,poupanca,2024-04-01 17:24:04
+Henrique,Rodrigues,74,,,,16709789,Henrique Rodrigues,2025-11-10 12:00:00,salario,2025-04-27 01:26:29
+Olivia,Oliveira,71,,,,17551544,Olivia Oliveira,2025-11-10 12:00:00,poupanca,2025-08-06 13:39:56
+Isabela,Oliveira,37,,,,22410705,Isabela Oliveira,2025-11-10 12:00:00,salario,2024-09-09 12:36:35
+Carlos,Vieira,31,,,,20896601,Carlos Vieira,2025-11-10 12:00:00,poupanca,2023-08-20 04:43:33
+Wagner,Almeida,40,,,,14568531,Wagner Almeida,2025-11-10 12:00:00,salario,2024-09-21 04:32:06
+Paula,Araújo,69,68.32,Eletrônicos,2025-09-21 11:52:01,24103304,Paula Araújo,2025-11-10 12:00:00,salario,2025-03-24 09:54:41
+Fábio,Souza,29,375.64,Pix Recebido,2025-04-08 10:01:04,20354938,Fábio Souza,2025-11-10 12:00:00,poupanca,2023-06-06 14:03:56
+Fábio,Rocha,35,1483.70,Passagem,2025-01-18 14:23:21,14815621,Fábio Rocha,2025-11-10 12:00:00,corrente,2023-04-14 14:19:09
+Yuri,Almeida,42,522.51,Farmácia,2024-11-27 11:17:43,12323972,Yuri Almeida,2025-11-10 12:00:00,salario,2024-06-07 23:41:07
+Júlia,Barbosa,30,1011.88,Boleto,2025-03-08 05:02:34,17518640,Júlia Barbosa,2025-11-10 12:00:00,poupanca,2023-02-19 15:10:50
+Beatriz,Cardoso,70,412.89,Roupas,2025-02-02 12:44:23,21945710,Beatriz Cardoso,2025-11-10 12:00:00,poupanca,2022-08-30 01:16:47
+Otávio,Souza,60,,,,17893313,Otávio Souza,2025-11-10 12:00:00,poupanca,2023-06-10 22:45:20
+Henrique,Dias,29,,,,14856729,Henrique Dias,2025-11-10 12:00:00,poupanca,2024-05-08 18:51:08
+Giovana,Nascimento,50,1319.22,Combustível,2025-05-31 14:26:02,23351417,Giovana Nascimento,2025-11-10 12:00:00,salario,2024-03-09 04:18:50
+Diego,Campos,30,793.55,Saque,2025-09-16 01:04:13,23176385,Diego Campos,2025-11-10 12:00:00,salario,2023-01-31 11:49:54
+Olivia,Carvalho,41,,,,23801859,Olivia Carvalho,2025-11-10 12:00:00,corrente,2024-04-02 21:05:07
+Eduarda,Moreira,57,844.67,Hotel,2025-01-12 05:46:11,21955895,Eduarda Moreira,2025-11-10 12:00:00,corrente,2024-05-23 22:04:28
+Matheus,Cardoso,60,,,,23078066,Matheus Cardoso,2025-11-10 12:00:00,poupanca,2023-05-24 04:55:20
+Yasmin,Moura,62,1462.11,Pix Recebido,2025-08-07 15:50:26,24126818,Yasmin Moura,2025-11-10 12:00:00,salario,2024-11-19 16:38:10
+Pedro,Gomes,30,1057.13,Pix Recebido,2025-08-26 00:07:00,24892180,Pedro Gomes,2025-11-10 12:00:00,salario,2023-08-02 02:13:13
+Pedro,Silva,37,,,,13874405,Pedro Silva,2025-11-10 12:00:00,salario,2023-05-19 04:29:06
+Natalia,Ribeiro,68,712.73,Pix Recebido,2025-10-08 02:59:21,15868436,Natalia Ribeiro,2025-11-10 12:00:00,poupanca,2024-01-01 12:45:49
+Heitor,Lima,50,,,,17297679,Heitor Lima,2025-11-10 12:00:00,poupanca,2025-08-22 01:46:59
+Wagner,Sales,57,1045.78,Pix Recebido,2025-09-22 17:23:50,10131120,Wagner Sales,2025-11-10 12:00:00,salario,2024-04-02 19:17:39
+Felipe,Rocha,61,,,,13895654,Felipe Rocha,2025-11-10 12:00:00,poupanca,2023-12-24 12:39:51
+Mariana,Monteiro,49,,,,18606778,Mariana Monteiro,2025-11-10 12:00:00,salario,2024-03-26 06:46:49
+Paula,Martins,59,,,,11494335,Paula Martins,2025-11-10 12:00:00,corrente,2024-10-17 06:01:29
+Gabriela,Ribeiro,32,,,,13046734,Gabriela Ribeiro,2025-11-10 12:00:00,corrente,2025-09-30 21:49:01
+Yuri,Barros,47,,,,23597265,Yuri Barros,2025-11-10 12:00:00,salario,2025-05-12 06:27:05
+Wagner,Barros,53,1077.91,Pix Recebido,2025-06-26 08:49:50,21392028,Wagner Barros,2025-11-10 12:00:00,poupanca,2023-05-06 18:54:18
+Giovana,Tavares,46,242.33,Padaria,2025-05-28 10:54:51,18078713,Giovana Tavares,2025-11-10 12:00:00,poupanca,2022-10-06 17:07:58
+Júlia,Castro,34,1110.28,Roupas,2025-07-28 14:35:22,19015834,Júlia Castro,2025-11-10 12:00:00,poupanca,2023-04-24 23:18:46
+Ursula,Melo,67,,,,19741969,Ursula Melo,2025-11-10 12:00:00,poupanca,2024-05-29 11:09:33
+Heitor,Rodrigues,63,,,,13380338,Heitor Rodrigues,2025-11-10 12:00:00,salario,2024-08-17 15:21:32
+Olivia,Ferreira,26,,,,16692361,Olivia Ferreira,2025-11-10 12:00:00,poupanca,2025-04-11 06:46:37
+Zuleica,Lima,22,954.77,Roupas,2025-01-27 12:02:33,22188978,Zuleica Lima,2025-11-10 12:00:00,poupanca,2022-12-31 01:09:22
+Diego,Cavalcante,62,388.38,Saque,2025-08-13 05:54:10,11129765,Diego Cavalcante,2025-11-10 12:00:00,corrente,2024-01-22 15:34:02
+Queila,Monteiro,48,,,,13341053,Queila Monteiro,2025-11-10 12:00:00,corrente,2025-02-15 09:27:04
+Beatriz,Cardoso,66,,,,13380351,Beatriz Cardoso,2025-11-10 12:00:00,salario,2024-01-17 17:18:52
+Sabrina,Barbosa,49,,,,11068641,Sabrina Barbosa,2025-11-10 12:00:00,salario,2023-11-20 13:11:50
+Sofia,Ribeiro,49,,,,24473367,Sofia Ribeiro,2025-11-10 12:00:00,corrente,2025-09-21 07:58:25
+Diego,Moreira,60,677.63,Hotel,2024-12-20 16:55:38,11751949,Diego Moreira,2025-11-10 12:00:00,salario,2023-10-26 19:36:42
+Karla,Duarte,26,,,,15843364,Karla Duarte,2025-11-10 12:00:00,corrente,2025-03-06 07:02:01
+Olivia,Souza,43,,,,19515778,Olivia Souza,2025-11-10 12:00:00,salario,2024-11-12 00:16:45
+Queila,Souza,23,,,,24215025,Queila Souza,2025-11-10 12:00:00,corrente,2022-10-29 21:23:10
+Rafael,Monteiro,38,720.40,Pix Recebido,2025-01-18 22:19:43,20429505,Rafael Monteiro,2025-11-10 12:00:00,corrente,2023-11-22 15:36:10
+Sofia,Teixeira,34,1155.91,Padaria,2025-05-18 18:24:33,19492826,Sofia Teixeira,2025-11-10 12:00:00,poupanca,2025-08-09 11:17:28
+Júlia,Souza,65,,,,18894528,Júlia Souza,2025-11-10 12:00:00,salario,2023-06-11 11:08:12
+Daniela,Vieira,32,1269.61,Padaria,2024-12-23 01:52:05,15866213,Daniela Vieira,2025-11-10 12:00:00,salario,2023-02-17 13:50:52
+Valentina,Oliveira,66,1165.40,Padaria,2025-02-21 21:37:34,14629308,Valentina Oliveira,2025-11-10 12:00:00,salario,2024-11-11 06:12:59
+Paula,Carvalho,71,472.51,Passagem,2025-08-01 13:01:39,21002553,Paula Carvalho,2025-11-10 12:00:00,corrente,2024-08-26 03:56:30
+Júlia,Costa,54,,,,17412530,Júlia Costa,2025-11-10 12:00:00,poupanca,2023-02-18 09:24:20
+Karla,Nascimento,56,,,,12381339,Karla Nascimento,2025-11-10 12:00:00,poupanca,2024-02-15 02:56:31
+Karla,Cardoso,24,68.24,Pix Recebido,2024-12-20 07:25:46,16082671,Karla Cardoso,2025-11-10 12:00:00,corrente,2025-02-14 23:22:08
+Bruno,Cardoso,54,,,,24564618,Bruno Cardoso,2025-11-10 12:00:00,salario,2023-10-07 19:23:42
+Elisa,Carvalho,22,1483.31,Passagem,2025-08-13 03:59:00,24570381,Elisa Carvalho,2025-11-10 12:00:00,salario,2022-09-10 21:52:22
+Yuri,Sales,33,,,,22737460,Yuri Sales,2025-11-10 12:00:00,poupanca,2023-12-10 00:36:58
+Yuri,Cardoso,72,1296.28,Pix Recebido,2025-07-26 06:33:47,20450358,Yuri Cardoso,2025-11-10 12:00:00,salario,2023-09-22 22:31:45
+Beatriz,Freitas,45,827.04,Farmácia,2025-01-14 23:33:05,24326562,Beatriz Freitas,2025-11-10 12:00:00,corrente,2023-11-19 07:59:37
+Ana,Teixeira,70,437.06,Passagem,2025-04-22 13:30:01,10975330,Ana Teixeira,2025-11-10 12:00:00,corrente,2023-04-22 15:42:00
+Gabriela,Ribeiro,41,510.86,Roupas,2024-12-14 08:02:06,14735597,Gabriela Ribeiro,2025-11-10 12:00:00,poupanca,2023-07-22 00:02:01
+Fábio,Barbosa,46,1104.83,Boleto,2025-08-25 00:19:08,13741908,Fábio Barbosa,2025-11-10 12:00:00,salario,2024-09-13 08:16:45
+Felipe,Barbosa,73,706.04,Streaming,2025-09-08 22:04:35,21021701,Felipe Barbosa,2025-11-10 12:00:00,corrente,2024-11-04 04:53:23
+João,Sales,28,71.28,Pix Recebido,2025-10-27 12:56:52,19154156,João Sales,2025-11-10 12:00:00,salario,2025-04-29 23:45:59
+Caio,Cardoso,33,746.82,Streaming,2024-12-23 11:29:13,23407116,Caio Cardoso,2025-11-10 12:00:00,poupanca,2024-12-24 07:08:59
+Karla,Teixeira,49,538.68,Roupas,2025-03-30 00:33:48,18933309,Karla Teixeira,2025-11-10 12:00:00,corrente,2024-02-01 17:00:42
+Rafael,Duarte,36,683.05,Pix Recebido,2025-06-24 11:09:49,19164687,Rafael Duarte,2025-11-10 12:00:00,corrente,2025-11-09 11:54:05
+Queila,Rocha,55,1169.78,Pix Recebido,2025-10-01 00:10:58,11959037,Queila Rocha,2025-11-10 12:00:00,corrente,2024-11-03 14:46:02
+Beatriz,Rodrigues,74,1248.39,Pix Recebido,2024-12-27 18:25:23,22594241,Beatriz Rodrigues,2025-11-10 12:00:00,poupanca,2025-08-30 20:31:45
+Felipe,Sales,45,36.18,Hotel,2025-10-30 09:12:21,19082499,Felipe Sales,2025-11-10 12:00:00,salario,2023-05-04 22:34:23
+Fábio,Souza,29,263.12,Combustível,2025-10-26 07:40:02,20354938,Fábio Souza,2025-11-10 12:00:00,poupanca,2023-06-06 14:03:56
+Yuri,Almeida,42,1450.20,Eletrônicos,2024-12-04 21:52:17,12323972,Yuri Almeida,2025-11-10 12:00:00,salario,2024-06-07 23:41:07
+Pedro,Gomes,30,767.38,Eletrônicos,2025-05-09 19:31:52,24892180,Pedro Gomes,2025-11-10 12:00:00,salario,2023-08-02 02:13:13
+Wagner,Barros,53,233.54,Combustível,2025-02-09 18:53:39,21392028,Wagner Barros,2025-11-10 12:00:00,poupanca,2023-05-06 18:54:18
+Júlia,Castro,34,630.11,Pix Recebido,2025-04-27 17:03:51,19015834,Júlia Castro,2025-11-10 12:00:00,poupanca,2023-04-24 23:18:46
+Diego,Cavalcante,62,1049.23,Combustível,2025-04-18 16:22:52,11129765,Diego Cavalcante,2025-11-10 12:00:00,corrente,2024-01-22 15:34:02
+Diego,Moreira,60,1420.96,Hotel,2025-04-04 09:56:05,11751949,Diego Moreira,2025-11-10 12:00:00,salario,2023-10-26 19:36:42
+Rafael,Monteiro,38,1247.51,Passagem,2025-06-28 18:26:07,20429505,Rafael Monteiro,2025-11-10 12:00:00,corrente,2023-11-22 15:36:10
+Rafael,Duarte,36,1277.79,Pix Recebido,2025-05-15 14:33:16,19164687,Rafael Duarte,2025-11-10 12:00:00,corrente,2025-11-09 11:54:05
+Fábio,Souza,29,1327.52,Transporte,2024-12-08 10:27:57,20354938,Fábio Souza,2025-11-10 12:00:00,poupanca,2023-06-06 14:03:56
+Júlia,Castro,34,802.55,Pix Recebido,2025-09-10 17:10:19,19015834,Júlia Castro,2025-11-10 12:00:00,poupanca,2023-04-24 23:18:46
